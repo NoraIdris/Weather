@@ -1,2 +1,2 @@
 # Weather
-a Project With HTML, CSS, JS, JS Advanced using an API 
+a Project With HTML, CSS, JS, using an API 
